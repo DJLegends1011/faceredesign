@@ -1,0 +1,15 @@
+SpriggitSource:
+  PackageName: Spriggit.Yaml.Starfield
+  Version: 0.24.0
+ModKey: faceredesign.esm
+GameRelease: Starfield
+ModHeader:
+  Flags:
+  - Master
+  - Light
+  FormVersion: 559
+  Author: DEFAULT
+  MasterReferences:
+  - Master: Starfield.esm
+  BNAM: 0x4D61696E00
+  INCC: 0

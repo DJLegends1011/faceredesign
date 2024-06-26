@@ -1,0 +1,19 @@
+FormKey: 000837:faceredesign.esm
+EditorID: Human_Female_Eyebrow_ThinArched_companions_make
+FormVersion: 559
+Components:
+- MutagenObjectType: KeywordFormComponent
+Name:
+  TargetLanguage: English
+  Value: Human_Female_Eyebrow_ThinArched_companions_make
+Model:
+  File: Actors\Human\CharacterAssets\Female\Eyebrow_01.nif
+  FLLD: 0x01000000
+Flags:
+- Playable
+- Female
+Type: Eyebrows
+NAM2: Eyebrows_ThinArched
+NAM3: EyebrowColor
+ValidRaces: 24A024:Starfield.esm
+MNAM: 013977:Starfield.esm

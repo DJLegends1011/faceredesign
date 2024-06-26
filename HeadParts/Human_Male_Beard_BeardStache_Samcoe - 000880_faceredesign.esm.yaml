@@ -1,0 +1,19 @@
+FormKey: 000880:faceredesign.esm
+EditorID: Human_Male_Beard_BeardStache_Samcoe
+FormVersion: 559
+Components:
+- MutagenObjectType: KeywordFormComponent
+Name:
+  TargetLanguage: English
+  Value: Human_Male_Beard_BeardStache_Samcoe
+Model:
+  File: Actors\Human\Mesh\beards\beardstache\BeardStache_M.nif
+  FLLD: 0x01000000
+Flags:
+- Playable
+- Male
+Type: FacialHair
+NAM2: FacialHair_Shared
+NAM3: BeardStache_Stub_Mask
+ValidRaces: 24A024:Starfield.esm
+MNAM: 160B9E:Starfield.esm
