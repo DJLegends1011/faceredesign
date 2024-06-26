@@ -139,9 +139,6 @@ VirtualMachineAdapter:
     - MutagenObjectType: ScriptObjectProperty
       Name: AffinityEventOnCombat
       Object: 180F0A:Starfield.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: COM_CombatResponseCivilianList
-      Object: 180F0C:Starfield.esm
   - Name: com_crew_giveitemactorscript
     Properties:
     - MutagenObjectType: ScriptObjectProperty
